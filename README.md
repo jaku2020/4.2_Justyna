@@ -52,3 +52,5 @@ Based on above findings Amazon can charge higher rates for specific demographics
 * The acceptance rate for drivers who have kids, go to expensive restaurant less than once a month, and accepted the Restaurant20to50 coupon compared to all drivers with kids is 26.40%
 * The acceptance rate for drivers who have kids, go to inexpensive restaurant 1-3 times a month, and accepted the RestaurantLessThan20 coupon compared to all drivers with kids is 26.08%
 * The acceptance rate for drivers who have kids, never go to bars, and accepted the Bar coupon compared to all drivers with kids is 26.02%.
+
+Link to the notebook: https://github.com/jaku2020/Driver_Coupons/blob/main/Driver_coupons_Jakubowska.ipynb
