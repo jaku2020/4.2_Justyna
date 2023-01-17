@@ -46,8 +46,8 @@ Some specific examples of drivers disclosed following:
 * The acceptance rate for drivers who have kids, go to inexpensive restaurant 1-3 times a month, and accepted the RestaurantLessThan20 coupon compared to all drivers with kids is 26.08%
 * The acceptance rate for drivers who have kids, go to expensive restaurant less than once a month, and accepted the Restaurant20to50 coupon compared to all drivers with kids is 26.40%
 
-# Next steps and recommendations:
-# Based on above findings Amazon can charge higher rates for specific dedmographics, times of day, location and weather. Marketing campaigns can be geared towards specific groups to increase the coupon acceptance rate. 3 groups that had a great ROI for family type were:
+Next steps and recommendations:
+Based on above findings Amazon can charge higher rates for specific dedmographics, times of day, location and weather. Marketing campaigns can be geared towards specific groups to increase the coupon acceptance rate. 3 groups that had a great ROI for family type were:
 * The acceptance rate for drivers who have kids, go to expensive restaurant less than once a month, and accepted the Restaurant20to50 coupon compared to all drivers with kids is 26.40%
 * The acceptance rate for drivers who have kids, go to inexpensive restaurant 1-3 times a month, and accepted the RestaurantLessThan20 coupon compared to all drivers with kids is 26.08%
 * The acceptance rate for drivers who have kids, never go to bars, and accepted the Bar coupon compared to all drivers with kids is 26.02%.
