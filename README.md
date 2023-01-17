@@ -1,4 +1,6 @@
 # Driver_Coupons
+Link to the notebook: https://github.com/jaku2020/Driver_Coupons/blob/main/Driver_coupons_Jakubowska.ipynb
+
 This file contains findings about drivers that received coupons from Amazon. I have done a research on 
 
 1. drivers that selected bar coupons and found that:
@@ -6,9 +8,9 @@ This file contains findings about drivers that received coupons from Amazon. I h
 * The proportion of bar coupons that were accepted was 56.84%.
 * The acceptance rate for those who went to a bar 3 or fewer times a month was 56.16%.
 * The acceptance rate for those who went to a bar more than 3 times a month was 62.25%.
-* The acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to the all others is 74.21%.
+* The acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to the all others is 54.10%.
 * The acceptance rate for drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry is 69.02%.
-* The acceptance rate for drivers who go to bars more than once a month and are under the age of 30 is 62.81%.
+* The acceptance rate for drivers who go to bars more than once a month and are under the age of 30 is 62.21%.
 Recommendations:
 * Do more detailed research,
 * Concentrate marketing efforts on all above mentioned groups since their acceptance rate is over 50%, which is high ROI. Target groups with coupons specific to them.
@@ -52,5 +54,3 @@ Based on above findings Amazon can charge higher rates for specific demographics
 * The acceptance rate for drivers who have kids, go to expensive restaurant less than once a month, and accepted the Restaurant20to50 coupon compared to all drivers with kids is 26.40%
 * The acceptance rate for drivers who have kids, go to inexpensive restaurant 1-3 times a month, and accepted the RestaurantLessThan20 coupon compared to all drivers with kids is 26.08%
 * The acceptance rate for drivers who have kids, never go to bars, and accepted the Bar coupon compared to all drivers with kids is 26.02%.
-
-Link to the notebook: https://github.com/jaku2020/Driver_Coupons/blob/main/Driver_coupons_Jakubowska.ipynb
